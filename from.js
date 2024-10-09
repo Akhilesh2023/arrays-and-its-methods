@@ -1,3 +1,7 @@
+//FROM
+// Creates a new array form an iterable or an array like object.
+// it is very useful when you want to convert non array object like string into array
+
 const array = "MANISH";
 let array1 = Array.from(array);
 console.log(array1);
